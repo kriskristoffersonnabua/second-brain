@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1772522612-MZEX.md",
+                "file": "obsidian-nvim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1772522612-MZEX"
+              "title": "obsidian-nvim"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "9891b378a0d7e21d",
   "lastOpenFiles": [
-    "Payment Trackers.md",
-    "obsidian-nvim.md",
-    "1772522472-GVPG.md",
-    "1772522528-SENV.md",
     "1772522612-MZEX.md",
+    "1772522528-SENV.md",
+    "1772522472-GVPG.md",
+    "obsidian-nvim.md",
+    "Payment Trackers.md",
     "1772522239-AFKA.md",
     "new norrrrr.md",
     "New note 2.md",
