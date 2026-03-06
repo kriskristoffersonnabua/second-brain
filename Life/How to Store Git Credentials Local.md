@@ -1,7 +1,4 @@
 ---
-id: 1772767763-JKCD
-aliases:
-  - How to Store Git Credentials Local
 tags:
   - "[git](1772767767-PUVQ.md)"
 ---
