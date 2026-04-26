@@ -1,9 +1,15 @@
 ---
-tags: [meal-plan, budget, intermittent-fasting, wedding-prep]
+tags:
+  - meal-plan
+  - budget
+  - intermittent-fasting
+  - wedding-prep
 cssclass: meal-tracker
-start_date: 2026-04-26
+start_date: 2026-04-27
 total_budget: 4900
 daily_avg: 163
+aliases: []
+id: MealTracker
 ---
 
 # 🍚 30-Day IF Budget Meal Tracker
@@ -48,6 +54,7 @@ daily_avg: 163
 | Week 2 | Days 8–14 | ₱1150 | | |
 | Week 3 | Days 15–21 | ₱1150 | | |
 | Week 4 | Days 22–28 | ₱1150 | | |
+| Week 5 | Days 29–35 | ₱1150 | | |
 | **TOTAL** | Days 1–28 | **₱4600** | | |
 | Days 29–30 | | ₱300 | | |
 | **GRAND TOTAL** | **30 days** | **₱4,900** | | |
@@ -59,7 +66,7 @@ daily_avg: 163
 > [!tip] Week 1 Focus
 > Adjustment week. Fasting before 12PM will feel hard. Drink water and black coffee. Push through — it gets easier by Day 5.
 
-### Day 1 — Monday, Apr 26 🏢 Work
+### Day 1 — Monday, Apr 27 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -84,7 +91,7 @@ daily_avg: 163
 
 ---
 
-### Day 2 — Tuesday, Apr 27 🏢 Work
+### Day 2 — Tuesday, Apr 28 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -109,7 +116,7 @@ daily_avg: 163
 
 ---
 
-### Day 3 — Wednesday, Apr 28 🏢 Work
+### Day 3 — Wednesday, Apr 29 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -134,7 +141,7 @@ daily_avg: 163
 
 ---
 
-### Day 4 — Thursday, Apr 29 🏢 Work
+### Day 4 — Thursday, Apr 30 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -159,7 +166,7 @@ daily_avg: 163
 
 ---
 
-### Day 5 — Friday, Apr 30 🏢 Work
+### Day 5 — Friday, May 01 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -184,7 +191,7 @@ daily_avg: 163
 
 ---
 
-### Day 6 — Saturday, May 01 🏠 Rest
+### Day 6 — Saturday, May 02 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -209,7 +216,7 @@ daily_avg: 163
 
 ---
 
-### Day 7 — Sunday, May 02 🏠 Rest
+### Day 7 — Sunday, May 03 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -251,7 +258,7 @@ daily_avg: 163
 > [!tip] Week 2 Focus
 > Full 16:8 locked in. Morning hunger fades. Add a 10-min walk after dinner every night.
 
-### Day 8 — Monday, May 03 🏢 Work
+### Day 8 — Monday, May 04 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -276,7 +283,7 @@ daily_avg: 163
 
 ---
 
-### Day 9 — Tuesday, May 04 🏢 Work
+### Day 9 — Tuesday, May 05 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -301,7 +308,7 @@ daily_avg: 163
 
 ---
 
-### Day 10 — Wednesday, May 05 🏢 Work
+### Day 10 — Wednesday, May 06 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -326,7 +333,7 @@ daily_avg: 163
 
 ---
 
-### Day 11 — Thursday, May 06 🏢 Work
+### Day 11 — Thursday, May 07 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -351,7 +358,7 @@ daily_avg: 163
 
 ---
 
-### Day 12 — Friday, May 07 🏢 Work
+### Day 12 — Friday, May 08 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -376,7 +383,7 @@ daily_avg: 163
 
 ---
 
-### Day 13 — Saturday, May 08 🏠 Rest
+### Day 13 — Saturday, May 09 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -401,7 +408,7 @@ daily_avg: 163
 
 ---
 
-### Day 14 — Sunday, May 09 🏠 Rest
+### Day 14 — Sunday, May 10 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -443,7 +450,7 @@ daily_avg: 163
 > [!tip] Week 3 Focus
 > You are fat-adapted now. Late-night cravings should be almost gone. Walk 30 mins daily.
 
-### Day 15 — Monday, May 10 🏢 Work
+### Day 15 — Monday, May 11 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -468,7 +475,7 @@ daily_avg: 163
 
 ---
 
-### Day 16 — Tuesday, May 11 🏢 Work
+### Day 16 — Tuesday, May 12 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -493,7 +500,7 @@ daily_avg: 163
 
 ---
 
-### Day 17 — Wednesday, May 12 🏢 Work
+### Day 17 — Wednesday, May 13 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -518,7 +525,7 @@ daily_avg: 163
 
 ---
 
-### Day 18 — Thursday, May 13 🏢 Work
+### Day 18 — Thursday, May 14 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -543,7 +550,7 @@ daily_avg: 163
 
 ---
 
-### Day 19 — Friday, May 14 🏢 Work
+### Day 19 — Friday, May 15 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -568,7 +575,7 @@ daily_avg: 163
 
 ---
 
-### Day 20 — Saturday, May 15 🏠 Rest
+### Day 20 — Saturday, May 16 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -593,7 +600,7 @@ daily_avg: 163
 
 ---
 
-### Day 21 — Sunday, May 16 🏠 Rest
+### Day 21 — Sunday, May 17 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -635,7 +642,7 @@ daily_avg: 163
 > [!tip] Week 4 Focus
 > Wedding week — anti-bloat mode. No salty/processed food. Drink 3L water/day. Sleep 8 hrs. Finish dinner by 7:00PM.
 
-### Day 22 — Monday, May 17 🏢 Work
+### Day 22 — Monday, May 18 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -660,7 +667,7 @@ daily_avg: 163
 
 ---
 
-### Day 23 — Tuesday, May 18 🏢 Work
+### Day 23 — Tuesday, May 19 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -685,7 +692,7 @@ daily_avg: 163
 
 ---
 
-### Day 24 — Wednesday, May 19 🏢 Work
+### Day 24 — Wednesday, May 20 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -710,7 +717,7 @@ daily_avg: 163
 
 ---
 
-### Day 25 — Thursday, May 20 🏢 Work
+### Day 25 — Thursday, May 21 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -735,7 +742,7 @@ daily_avg: 163
 
 ---
 
-### Day 26 — Friday, May 21 🏢 Work
+### Day 26 — Friday, May 22 🏢 Work
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -760,7 +767,7 @@ daily_avg: 163
 
 ---
 
-### Day 27 — Saturday, May 22 🏠 Rest
+### Day 27 — Saturday, May 23 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -785,7 +792,7 @@ daily_avg: 163
 
 ---
 
-### Day 28 — Sunday, May 23 🏠 Rest
+### Day 28 — Sunday, May 24 🏠 Rest
 
 | Meal | Food | Cost | Done? |
 |------|------|------|-------|
@@ -809,6 +816,198 @@ daily_avg: 163
 > 
 
 ### Week 4 Summary
+
+| | Planned | Actual |
+|--|---------|--------|
+| Total spend | ₱1150 | ₱ ___ |
+| Days fasted successfully | 7 | ___ / 7 |
+| Days walked 30 mins | 7 | ___ / 7 |
+| Late-night cravings resisted | — | ___ times |
+
+**Week reflection:**
+> 
+
+---
+
+## 📅 Week 5
+
+> [!tip] Week 5 Focus
+> Wedding week — anti-bloat mode. No salty/processed food. Drink 3L water/day. Sleep 8 hrs. Finish dinner by 7:00PM.
+
+### Day 29 — Monday, May 25 🏢 Work
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) | Pinakbet or Ginisang Monggo + rice | ₱70 | - [ ] |
+| 🍌 Snack | *Skip — water lang* | ₱0 | — |
+| 🌙 Dinner ★ (7PM) | Sinigang na isda or Tinola (soup + rice) | ₱85 | - [ ] |
+| | **Day Total** | **₱155** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 30 — Tuesday, May 26 🏢 Work
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) *(budget day)* | Sardinas or Itlog na prito + rice | ₱45 | - [ ] |
+| 🍌 Snack | *Skip — water lang* | ₱0 | — |
+| 🌙 Dinner ★ (7PM) | Adobo (chicken/pork, no skin) + rice | ₱100 | - [ ] |
+| | **Day Total** | **₱145** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 31 — Wednesday, May 27 🏢 Work
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) | Ensalada or Ginisang gulay + rice | ₱70 | - [ ] |
+| 🍌 Snack | *Skip — water lang* | ₱0 | — |
+| 🌙 Dinner ★ (7PM) | Inihaw na isda or Bangus + rice | ₱100 | - [ ] |
+| | **Day Total** | **₱170** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 32 — Thursday, May 28 🏢 Work
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) *(budget day)* | Tuyo or Sardinas + rice | ₱45 | - [ ] |
+| 🍌 Snack | *Skip — water lang* | ₱0 | — |
+| 🌙 Dinner ★ (7PM) | Sinigang na manok or Tinola (big soup + rice) | ₱85 | - [ ] |
+| | **Day Total** | **₱130** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 33 — Friday, May 29 🏢 Work
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) | Ginisang Monggo or Ampalaya + rice | ₱70 | - [ ] |
+| 🍌 Snack | *Skip — water lang* | ₱0 | — |
+| 🌙 Dinner ★ (7PM) | Grilled chicken or Pork adobo + rice | ₱100 | - [ ] |
+| | **Day Total** | **₱170** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 34 — Saturday, May 30 🏠 Rest
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) | Sinigang na bangus or Nilaga (soup + rice) | ₱85 | - [ ] |
+| 🍌 Snack (3:30PM) | Saging na Saba or Camote (street vendor) | ₱10 | - [ ] |
+| 🌙 Dinner ★ (7PM) | Inihaw na tilapia or Bangus + rice | ₱100 | - [ ] |
+| | **Day Total** | **₱195** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+---
+
+### Day 35 — Sunday, May 31 🏠 Rest
+
+| Meal | Food | Cost | Done? |
+|------|------|------|-------|
+| ☀️ Lunch (12PM) | Pinakbet or Ginisang gulay + rice | ₱70 | - [ ] |
+| 🍌 Snack (3:30PM) | Boiled camote (sari-sari store) | ₱15 | - [ ] |
+| 🌙 Dinner ★ (7PM) | Sinigang or Tinola (big serving) + rice | ₱100 | - [ ] |
+| | **Day Total** | **₱185** | |
+
+**Daily Log:**
+
+- [ ] Fasting done (no food before 12PM)
+- [ ] Drank 8+ glasses of water
+- [ ] Dinner done by 7:30PM
+- [ ] Kitchen closed by 8PM
+- [ ] 30-min walk today
+- [ ] Slept 7–8 hours last night
+
+**Actual spend today:** ₱ ___
+
+**Notes / how I felt:**
+> 
+
+### Week 5 Summary
 
 | | Planned | Actual |
 |--|---------|--------|
