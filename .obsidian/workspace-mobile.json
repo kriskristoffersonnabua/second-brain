@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Payment Trackers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payment Trackers"
+              "title": "README"
             }
           }
         ]
@@ -169,5 +169,14 @@
     }
   },
   "active": "8fe139f1d4832567",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Life/obsidian-nvim.md",
+    "Life/Obsidian Setup References.md",
+    "Life/MealTracker.md",
+    "Life/How to Store Git Credentials Local.md",
+    "Life/1772596342-VZWG.md",
+    "Life/1772595994-DEMV.md",
+    "Life/1772595989-BMGS.md",
+    "Life/Payment Trackers.md"
+  ]
 }
